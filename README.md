@@ -9,3 +9,4 @@ To personalize VS-CODE into a userfriendly environment follow the following inst
 4. Restart VS Code
 5. Themes:
 	a. Community Material Theme
+	b. Dracula
